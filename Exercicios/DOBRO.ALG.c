@@ -8,7 +8,7 @@ Inicio
 escreva("Digite um numero para obter o dobro")
 leia(a)
 b <- a*2
-escreva("O dobro do seu numero é ",b," ")
+escreva("O dobro do seu numero Ã© ",b," ")
 
 
 
